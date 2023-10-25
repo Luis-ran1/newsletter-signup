@@ -238,13 +238,10 @@ li{
   }
   .success-container img{
    width: 50px;
-   margin: 10px 10px;
-  }
-  .success-main-text{
-   margin: 10px 10px;
   }
   .success-text-info{
-   margin: 10px 10px;
+   margin: 10px -5px;
+   line-height: 1.4;
   }
   .success-container a{
    margin-top: 130px;
