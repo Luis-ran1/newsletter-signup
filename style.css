@@ -138,16 +138,18 @@ li{
     margin: 100px auto;
     padding: 38px;
     border: 1px solid;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 .success-container img{
    margin-bottom: 10px;
 }
 .success-main-text{
    margin-bottom: 10px;
+   font-size: 40px;
+   color: var(--Dark-Slate);
 }
 .success-text-info{
-   margin-bottom: 15px;
+   margin-bottom: 25px;
 }
 .success-container a {
    display: block;
@@ -245,7 +247,7 @@ li{
    margin: 10px 10px;
   }
   .success-container a{
-   margin-top: 200px;
+   margin-top: 130px;
    border-radius: 10px;
   }
 }
