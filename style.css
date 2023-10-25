@@ -173,6 +173,9 @@ li{
    
 }
 @media (max-width: 768px) {
+   body{
+      background: var(--White);
+   }
    .image-desktop{
       display: none;
    }
