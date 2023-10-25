@@ -177,6 +177,8 @@ li{
 @media (max-width: 768px) {
    body{
       background: var(--White);
+      overflow-y: scroll;
+      overflow-x: scroll;
    }
    .image-desktop{
       display: none;
